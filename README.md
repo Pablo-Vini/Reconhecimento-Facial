@@ -18,6 +18,6 @@ Nos arquivos de nome **treinamento** o Python faz uma média das fotos capturada
 
 > PARTE 3 - RECONHECIMENTO
 
-Nos arquivos com o nome **reconhecedor** testamos se ele consegue identificar o rosto com base no banco de dados:
+Nos arquivos com o nome **reconhecedor** testamos se ele consegue identificar o rosto com base no banco de dados e apresenta o nome e logo abaixo o grau de confiabilidade:
 
 ![Foto](https://user-images.githubusercontent.com/124642141/234397780-83be1e86-05a9-445a-b823-f625e79322b6.PNG)
